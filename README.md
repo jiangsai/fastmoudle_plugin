@@ -1,0 +1,2 @@
+# fastmoudle_plugin
+plugin
